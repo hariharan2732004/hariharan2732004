@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/07/12/89/72/360_F_712897222_GAmQmsotZDOFbNzq1fvOvq24JsG11Ra2.jpg)]
+![MasterHead](https://t3.ftcdn.net/jpg/07/12/89/72/360_F_712897222_GAmQmsotZDOFbNzq1fvOvq24JsG11Ra2.jpg)
 <h1 align="center">Hi 👋, I'm HARIHARAN P</h1>
 <h3 align="center">SAP MM Support Consultant | Procure-to-Pay Specialist | MM–FI Integration | Based in India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
