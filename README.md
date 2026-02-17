@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharan2732004&label=Profile%20views&color=0e75b6&style=flat" alt="hariharan2732004" /> </p>
 
-- 🔭 I’m currently working on [SAP MM L1/L2 Support – Procure to Pay (P2P) Process Optimization](https://hariharan2732004.github.io/Portfolio-1)
+- 🔭 I’m currently working on SAP MM L1/L2 Support – Procure to Pay (P2P) Process Optimization.
 
-- 🌱 I’m currently learning **SAP S/4HANA MM Advanced Configuration, Release Strategy, Pricing Procedure, Account Determination (OBYC), Fiori Apps**
+- 🌱 I’m currently learning **SAP S/4HANA MM Advanced Configuration, Release Strategy, Pricing Procedure, Account Determination (OBYC), Fiori Apps.**
 
-- 👯 I’m looking to collaborate on **SAP MM Implementation & S/4HANA Migration Projects**
+- 👯 I’m looking to collaborate on **SAP MM Implementation & S/4HANA Migration Projects.**
 
-- 🤝 I’m looking for help with **Advanced SAP MM Configuration & Integration with FI/SD/PP**
+- 🤝 I’m looking for help with **Advanced SAP MM Configuration & Integration with FI/SD/PP.**
 
 - 👨‍💻 All of my projects are available at [🌐https://hariharan2732004.github.io/Portfolio-1](🌐https://hariharan2732004.github.io/Portfolio-1)
 
