@@ -33,8 +33,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.sap.com/india/index.html"> <img src="https://img.icons8.com/?size=100&id=38192&format=png&color=000000" alt="android" width="40" height="40"/> </a>  </p>
 
-<p><a href="https://hariharan2732004.github.io/Portfolio-1"><img align="left" src="https://img.icons8.com/?size=30&id=Meg71w7epZVz&format=png&color=000000" alt="hariharan2732004" /></a></p>
+<p><a href="https://hariharan2732004.github.io/Portfolio-1"><img align="left" src="https://img.icons8.com/?size=35&id=Meg71w7epZVz&format=png&color=000000" alt="hariharan2732004" /></a></p>
 
-<p>&nbsp;<a href="https://www.linkedin.com/in/hariharan2732004"><img align="center" src="https://img.icons8.com/?size=25&id=13930&format=png&color=000000" alt="hariharan2732004" /></a></p>
+<p>&nbsp;<a href="https://www.hackerrank.com/profile/hariharan2732004"><img align="center" src="https://img.icons8.com/?size=30&id=h5EUmNCXhSH0&format=png&color=000000" alt="hariharan2732004" /></a></p>
 
 
