@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm HARIHARAN P</h1>
-<h3 align="center"><span style style="color: orange;">SAP</span> MM Support <span style style="color:  #138808;">Consultant</span> | Based in India</h3>
+<h3 align="center"> <span style="color: orange;">SAP</span> MM Support <span style="color:  #138808;">Consultant</span> | Based in India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharan2732004&label=Profile%20views&color=0e75b6&style=flat" alt="hariharan2732004" /> </p>
