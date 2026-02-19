@@ -40,4 +40,11 @@
 
 <p>&nbsp;<a href="https://www.hackerrank.com/profile/hariharan2732004"><img align="center" src="https://img.icons8.com/?size=30&id=h5EUmNCXhSH0&format=png&color=000000" alt="hariharan2732004" /></a></p>
 
+<p align="left">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan2732004" 
+    width="350"
+    alt="hariharan2732004" 
+  />
+</p>
 
